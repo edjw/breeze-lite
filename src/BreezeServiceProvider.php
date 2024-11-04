@@ -1,6 +1,6 @@
 <?php
 
-namespace SenkuLabs\Breeze;
+namespace edjw\Breeze;
 
 use Laravel\Breeze\BreezeServiceProvider as LaravelBreezeServiceProvider;
 

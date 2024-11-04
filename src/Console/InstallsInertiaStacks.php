@@ -1,6 +1,6 @@
 <?php
 
-namespace SenkuLabs\Breeze\Console;
+namespace edjw\Breeze\Console;
 
 use Illuminate\Filesystem\Filesystem;
 use Laravel\Breeze\Console\InstallsInertiaStacks as LaravelBreezeInstallsInertiaStacks;

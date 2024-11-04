@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SenkuLabs\\Breeze\\": "src/"
+            "edjw\\Breeze\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SenkuLabs\\Breeze\\BreezeServiceProvider"
+                "edjw\\Breeze\\BreezeServiceProvider"
             ]
         }
     },

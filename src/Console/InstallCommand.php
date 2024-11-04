@@ -1,6 +1,6 @@
 <?php
 
-namespace SenkuLabs\Breeze\Console;
+namespace edjw\Breeze\Console;
 
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Input\InputInterface;

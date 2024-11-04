@@ -1,7 +1,12 @@
 {
-    "name": "senkulabs/breeze-lite",
-    "description": "Unofficial Laravel Breeze for Laravel + Inertia + Svelte.",
-    "keywords": ["laravel-breeze", "laravel", "inertia", "svelte"],
+    "name": "edjw/breeze-lite",
+    "description": "Temporary fork from senkulabs/breeze-lite Unofficial Laravel Breeze for Laravel + Inertia + Svelte.",
+    "keywords": [
+        "laravel-breeze",
+        "laravel",
+        "inertia",
+        "svelte"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.2.0",

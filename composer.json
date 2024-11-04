@@ -1,5 +1,6 @@
 {
     "name": "edjw/breeze-lite",
+    "version": "0.0.1",
     "description": "Temporary fork from senkulabs/breeze-lite Unofficial Laravel Breeze for Laravel + Inertia + Svelte.",
     "keywords": [
         "laravel-breeze",
